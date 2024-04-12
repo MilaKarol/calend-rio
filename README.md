@@ -24,10 +24,13 @@ O arquivo HTML compõe a estrutura fundamental da página web e inclui:
 -Um formulário para seleção de cor e dia, permitindo ao usuário colorir o calendário.
 -Informações sobre diferentes tipos de caminhões.
  
-![](html1.png) 
-![](html2.png)
-![](html3.png)
-![](html4.png)
+![](imagens/html1.png) 
+
+![](imagens/html2.png)
+
+![](imagens/html3.png)
+
+![](imagens/html4.png)
  
 ## CSS (calendar.css)
  
@@ -36,16 +39,16 @@ O arquivo CSS define os estilos para os elementos na página web, incluindo:
 -Estilos para o corpo da página, a tabela do calendário e os elementos do formulário.
 -Define cores de fundo, bordas, alinhamento de texto e margens para os elementos.
  
-![](css1.png)
+![](imagens/css1.png)
 
-![](css2.png)
+![](imagens/css2.png)
  
 ## JavaScript (calendar.js)
  
 O arquivo JavaScript contém a função colorirDia(), que é acionada quando o usuário clica no botão de envio no formulário. Esta função obtém o dia e a cor selecionados pelo usuário e colore o dia correspondente na tabela do calendário.
 
 
-![](javascript.png)
+![](imagens/javascript.png)
  
 ---
  
@@ -69,11 +72,11 @@ O calendário oferece uma visualização clara dos dias disponíveis para agenda
 
 
  
-![](calendario.png)
+![](imagens/calendario.png)
  
 # Autor
 * Milena Caroline de Almeida
  
-<img src="mila.png" width=200 >
+<img src="imagens/mila.png" width=100 >
 
 
