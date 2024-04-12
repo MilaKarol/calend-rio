@@ -25,11 +25,8 @@ O arquivo HTML compõe a estrutura fundamental da página web e inclui:
 -Informações sobre diferentes tipos de caminhões.
  
 ![](html1.png) 
- 
 ![](html2.png)
-
 ![](html3.png)
-
 ![](html4.png)
  
 ## CSS (calendar.css)
