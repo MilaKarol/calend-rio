@@ -24,7 +24,7 @@ O arquivo HTML compõe a estrutura fundamental da página web e inclui:
 -Um formulário para seleção de cor e dia, permitindo ao usuário colorir o calendário.
 -Informações sobre diferentes tipos de caminhões.
  
-![](html1.png)
+![](html1.png) 
  
 ![](html2.png)
 
